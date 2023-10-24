@@ -1,0 +1,20 @@
+100  0.0   90.0    0.0    0.0  000 ! Kraton A Modern
+100 1.0   90.0    0.0  -13.9145  000 ! Drift Correction
+100 1950.0   90.0    0.0  -13.9145  000 !
+100 2000.0   90.0    0.0    0.0  000 ! Kraton A Paleo
+200  0.0   90.0    0.0    0.0  100 ! Kraton B Modern
+200 2000.0   90.0    0.0    0.0  100 ! Kraton B Paleo (follows A)
+300  0.0   90.0    0.0    0.0  100 ! Kraton C Modern
+300 2000.0   90.0    0.0    0.0  100 ! Kraton C Paleo (follows A)
+400  0.0   90.0    0.0    0.0  500 ! Kraton D Modern
+400 2000.0   90.0    0.0    0.0  500 ! Kraton D Paleo (follows E)
+500  0.0   90.0    0.0    0.0  000 ! Kraton E Modern
+500 1.0   90.0    0.0   13.6433  000 ! Drift Correction
+500 1950.0   90.0    0.0   13.6433  000 !
+500 2000.0   90.0    0.0    0.0  000 ! Kraton E Paleo
+600  0.0   90.0    0.0    0.0  500 ! Kraton F Modern
+600 2000.0   90.0    0.0    0.0  500 ! Kraton F Paleo  (follows E)
+700  0.0   90.0    0.0    0.0  500 ! Kraton G Modern
+700 2000.0   90.0    0.0    0.0  500 ! Kraton G Paleo  (follows E)
+800  0.0   90.0    0.0    0.0  500 ! Kraton H Modern
+800 2000.0   90.0    0.0    0.0  500 ! Kraton H Paleo (follows E)
