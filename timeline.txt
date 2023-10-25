@@ -3,3 +3,6 @@
 1950 mya: New ocean crust and island arcs take form. Failed rifts prolong.
 1900 mya: Continents continue to drift appart, creating more ocean. Failed rifts prolong.
 1850 mya: Continents continue to drift appart, creating even more ocean.
+1800 mya: Continent ABC splits forming continent A and continent BC.
+1800 mya: Continent DEFGH splits forming continent F and continent DEGH.
+1800 mya: New ocean crust forms and 2 new oceanic plates appear as a result of two triple junctions.
