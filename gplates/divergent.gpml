@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpml:FeatureCollection xmlns:gpml="http://www.gplates.org/gplates" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/XMLSchema-instance" gpml:version="1.6.0339" xsi:schemaLocation="http://www.gplates.org/gplates ../xsd/gpml.xsd http://www.opengis.net/gml ../../../gml/current/base">
+    <gml:featureMember>
+        <gpml:MidOceanRidge>
+            <gpml:identity>GPlates-923eaf62-ee8a-4f37-b289-ee5619c0f04a</gpml:identity>
+            <gpml:revision>GPlates-b1a90e5e-a2e9-4031-bfb1-03ccee0a8251</gpml:revision>
+            <gml:name>Divergent</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">2000</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1850</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:centerLineOf>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gpml:TopologicalLine>
+                            <gpml:section>
+                                <gpml:TopologicalLineSection>
+                                    <gpml:sourceGeometry>
+                                        <gpml:PropertyDelegate>
+                                            <gpml:targetFeature>GPlates-f5c22cfa-5d8d-4ecf-bca9-b3773ba01b36</gpml:targetFeature>
+                                            <gpml:targetProperty xmlns:gpml="http://www.gplates.org/gplates">gpml:centerLineOf</gpml:targetProperty>
+                                            <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:LineString</gpml:valueType>
+                                        </gpml:PropertyDelegate>
+                                    </gpml:sourceGeometry>
+                                    <gpml:reverseOrder>false</gpml:reverseOrder>
+                                </gpml:TopologicalLineSection>
+                            </gpml:section>
+                            <gpml:section>
+                                <gpml:TopologicalLineSection>
+                                    <gpml:sourceGeometry>
+                                        <gpml:PropertyDelegate>
+                                            <gpml:targetFeature>GPlates-d6d151a6-90ab-49b3-8b39-068578c91b1b</gpml:targetFeature>
+                                            <gpml:targetProperty xmlns:gpml="http://www.gplates.org/gplates">gpml:centerLineOf</gpml:targetProperty>
+                                            <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:LineString</gpml:valueType>
+                                        </gpml:PropertyDelegate>
+                                    </gpml:sourceGeometry>
+                                    <gpml:reverseOrder>false</gpml:reverseOrder>
+                                </gpml:TopologicalLineSection>
+                            </gpml:section>
+                            <gpml:section>
+                                <gpml:TopologicalLineSection>
+                                    <gpml:sourceGeometry>
+                                        <gpml:PropertyDelegate>
+                                            <gpml:targetFeature>GPlates-67fe6179-68c3-4bef-85bd-0fc2c97cd0bf</gpml:targetFeature>
+                                            <gpml:targetProperty xmlns:gpml="http://www.gplates.org/gplates">gpml:centerLineOf</gpml:targetProperty>
+                                            <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:LineString</gpml:valueType>
+                                        </gpml:PropertyDelegate>
+                                    </gpml:sourceGeometry>
+                                    <gpml:reverseOrder>false</gpml:reverseOrder>
+                                </gpml:TopologicalLineSection>
+                            </gpml:section>
+                            <gpml:section>
+                                <gpml:TopologicalLineSection>
+                                    <gpml:sourceGeometry>
+                                        <gpml:PropertyDelegate>
+                                            <gpml:targetFeature>GPlates-5aec2076-f2c1-4a11-a030-100a6d3cd449</gpml:targetFeature>
+                                            <gpml:targetProperty xmlns:gpml="http://www.gplates.org/gplates">gpml:centerLineOf</gpml:targetProperty>
+                                            <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:LineString</gpml:valueType>
+                                        </gpml:PropertyDelegate>
+                                    </gpml:sourceGeometry>
+                                    <gpml:reverseOrder>false</gpml:reverseOrder>
+                                </gpml:TopologicalLineSection>
+                            </gpml:section>
+                        </gpml:TopologicalLine>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalLine</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:centerLineOf>
+        </gpml:MidOceanRidge>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:MidOceanRidge>
+            <gpml:identity>GPlates-e9d46092-aded-4631-8bed-a11b6457078e</gpml:identity>
+            <gpml:revision>GPlates-f23b1325-7387-4085-b5e1-efae83463c4b</gpml:revision>
+            <gml:name>Divergent</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">2000</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1850</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:centerLineOf>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gpml:TopologicalLine>
+                            <gpml:section>
+                                <gpml:TopologicalLineSection>
+                                    <gpml:sourceGeometry>
+                                        <gpml:PropertyDelegate>
+                                            <gpml:targetFeature>GPlates-d5baaa82-bf2c-4591-b2da-34557b4b79d9</gpml:targetFeature>
+                                            <gpml:targetProperty xmlns:gpml="http://www.gplates.org/gplates">gpml:centerLineOf</gpml:targetProperty>
+                                            <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:LineString</gpml:valueType>
+                                        </gpml:PropertyDelegate>
+                                    </gpml:sourceGeometry>
+                                    <gpml:reverseOrder>true</gpml:reverseOrder>
+                                </gpml:TopologicalLineSection>
+                            </gpml:section>
+                            <gpml:section>
+                                <gpml:TopologicalLineSection>
+                                    <gpml:sourceGeometry>
+                                        <gpml:PropertyDelegate>
+                                            <gpml:targetFeature>GPlates-67fe6179-68c3-4bef-85bd-0fc2c97cd0bf</gpml:targetFeature>
+                                            <gpml:targetProperty xmlns:gpml="http://www.gplates.org/gplates">gpml:centerLineOf</gpml:targetProperty>
+                                            <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:LineString</gpml:valueType>
+                                        </gpml:PropertyDelegate>
+                                    </gpml:sourceGeometry>
+                                    <gpml:reverseOrder>false</gpml:reverseOrder>
+                                </gpml:TopologicalLineSection>
+                            </gpml:section>
+                            <gpml:section>
+                                <gpml:TopologicalLineSection>
+                                    <gpml:sourceGeometry>
+                                        <gpml:PropertyDelegate>
+                                            <gpml:targetFeature>GPlates-5aec2076-f2c1-4a11-a030-100a6d3cd449</gpml:targetFeature>
+                                            <gpml:targetProperty xmlns:gpml="http://www.gplates.org/gplates">gpml:centerLineOf</gpml:targetProperty>
+                                            <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:LineString</gpml:valueType>
+                                        </gpml:PropertyDelegate>
+                                    </gpml:sourceGeometry>
+                                    <gpml:reverseOrder>false</gpml:reverseOrder>
+                                </gpml:TopologicalLineSection>
+                            </gpml:section>
+                        </gpml:TopologicalLine>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalLine</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:centerLineOf>
+        </gpml:MidOceanRidge>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:MidOceanRidge>
+            <gpml:identity>GPlates-3f4fbcf6-78f4-4db4-a04e-18ed2d8891f0</gpml:identity>
+            <gpml:revision>GPlates-962143c5-3b94-4831-9fd1-27878f02d146</gpml:revision>
+            <gml:name>Divergent</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">2000</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1850</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:centerLineOf>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gpml:TopologicalLine>
+                            <gpml:section>
+                                <gpml:TopologicalLineSection>
+                                    <gpml:sourceGeometry>
+                                        <gpml:PropertyDelegate>
+                                            <gpml:targetFeature>GPlates-d5baaa82-bf2c-4591-b2da-34557b4b79d9</gpml:targetFeature>
+                                            <gpml:targetProperty xmlns:gpml="http://www.gplates.org/gplates">gpml:centerLineOf</gpml:targetProperty>
+                                            <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:LineString</gpml:valueType>
+                                        </gpml:PropertyDelegate>
+                                    </gpml:sourceGeometry>
+                                    <gpml:reverseOrder>true</gpml:reverseOrder>
+                                </gpml:TopologicalLineSection>
+                            </gpml:section>
+                            <gpml:section>
+                                <gpml:TopologicalLineSection>
+                                    <gpml:sourceGeometry>
+                                        <gpml:PropertyDelegate>
+                                            <gpml:targetFeature>GPlates-d6d151a6-90ab-49b3-8b39-068578c91b1b</gpml:targetFeature>
+                                            <gpml:targetProperty xmlns:gpml="http://www.gplates.org/gplates">gpml:centerLineOf</gpml:targetProperty>
+                                            <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:LineString</gpml:valueType>
+                                        </gpml:PropertyDelegate>
+                                    </gpml:sourceGeometry>
+                                    <gpml:reverseOrder>true</gpml:reverseOrder>
+                                </gpml:TopologicalLineSection>
+                            </gpml:section>
+                            <gpml:section>
+                                <gpml:TopologicalLineSection>
+                                    <gpml:sourceGeometry>
+                                        <gpml:PropertyDelegate>
+                                            <gpml:targetFeature>GPlates-1ab02e82-4043-43f5-845f-39890167ca79</gpml:targetFeature>
+                                            <gpml:targetProperty xmlns:gpml="http://www.gplates.org/gplates">gpml:centerLineOf</gpml:targetProperty>
+                                            <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:LineString</gpml:valueType>
+                                        </gpml:PropertyDelegate>
+                                    </gpml:sourceGeometry>
+                                    <gpml:reverseOrder>false</gpml:reverseOrder>
+                                </gpml:TopologicalLineSection>
+                            </gpml:section>
+                            <gpml:section>
+                                <gpml:TopologicalLineSection>
+                                    <gpml:sourceGeometry>
+                                        <gpml:PropertyDelegate>
+                                            <gpml:targetFeature>GPlates-6798290c-b945-4689-9adb-c81102ff292c</gpml:targetFeature>
+                                            <gpml:targetProperty xmlns:gpml="http://www.gplates.org/gplates">gpml:centerLineOf</gpml:targetProperty>
+                                            <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:LineString</gpml:valueType>
+                                        </gpml:PropertyDelegate>
+                                    </gpml:sourceGeometry>
+                                    <gpml:reverseOrder>false</gpml:reverseOrder>
+                                </gpml:TopologicalLineSection>
+                            </gpml:section>
+                            <gpml:section>
+                                <gpml:TopologicalLineSection>
+                                    <gpml:sourceGeometry>
+                                        <gpml:PropertyDelegate>
+                                            <gpml:targetFeature>GPlates-6130c320-fbe1-434d-9b95-8124c1511c51</gpml:targetFeature>
+                                            <gpml:targetProperty xmlns:gpml="http://www.gplates.org/gplates">gpml:centerLineOf</gpml:targetProperty>
+                                            <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:LineString</gpml:valueType>
+                                        </gpml:PropertyDelegate>
+                                    </gpml:sourceGeometry>
+                                    <gpml:reverseOrder>false</gpml:reverseOrder>
+                                </gpml:TopologicalLineSection>
+                            </gpml:section>
+                        </gpml:TopologicalLine>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalLine</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:centerLineOf>
+        </gpml:MidOceanRidge>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:MidOceanRidge>
+            <gpml:identity>GPlates-d2f00c6b-f023-4c2e-8727-47824328b41c</gpml:identity>
+            <gpml:revision>GPlates-0693c73c-88a3-4b9c-9271-271ab354b1ec</gpml:revision>
+            <gml:name>Divergent</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">2000</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1624</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:centerLineOf>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gpml:TopologicalLine>
+                            <gpml:section>
+                                <gpml:TopologicalLineSection>
+                                    <gpml:sourceGeometry>
+                                        <gpml:PropertyDelegate>
+                                            <gpml:targetFeature>GPlates-c035f176-af10-4b94-8037-43118f2cbda3</gpml:targetFeature>
+                                            <gpml:targetProperty xmlns:gpml="http://www.gplates.org/gplates">gpml:centerLineOf</gpml:targetProperty>
+                                            <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:LineString</gpml:valueType>
+                                        </gpml:PropertyDelegate>
+                                    </gpml:sourceGeometry>
+                                    <gpml:reverseOrder>true</gpml:reverseOrder>
+                                </gpml:TopologicalLineSection>
+                            </gpml:section>
+                            <gpml:section>
+                                <gpml:TopologicalLineSection>
+                                    <gpml:sourceGeometry>
+                                        <gpml:PropertyDelegate>
+                                            <gpml:targetFeature>GPlates-1ab02e82-4043-43f5-845f-39890167ca79</gpml:targetFeature>
+                                            <gpml:targetProperty xmlns:gpml="http://www.gplates.org/gplates">gpml:centerLineOf</gpml:targetProperty>
+                                            <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:LineString</gpml:valueType>
+                                        </gpml:PropertyDelegate>
+                                    </gpml:sourceGeometry>
+                                    <gpml:reverseOrder>true</gpml:reverseOrder>
+                                </gpml:TopologicalLineSection>
+                            </gpml:section>
+                            <gpml:section>
+                                <gpml:TopologicalPoint>
+                                    <gpml:sourceGeometry>
+                                        <gpml:PropertyDelegate>
+                                            <gpml:targetFeature>GPlates-aade11f0-384d-4ad1-94b5-ff86d1008324</gpml:targetFeature>
+                                            <gpml:targetProperty xmlns:gpml="http://www.gplates.org/gplates">gpml:centerLineOf</gpml:targetProperty>
+                                            <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
+                                        </gpml:PropertyDelegate>
+                                    </gpml:sourceGeometry>
+                                </gpml:TopologicalPoint>
+                            </gpml:section>
+                            <gpml:section>
+                                <gpml:TopologicalLineSection>
+                                    <gpml:sourceGeometry>
+                                        <gpml:PropertyDelegate>
+                                            <gpml:targetFeature>GPlates-f5c22cfa-5d8d-4ecf-bca9-b3773ba01b36</gpml:targetFeature>
+                                            <gpml:targetProperty xmlns:gpml="http://www.gplates.org/gplates">gpml:centerLineOf</gpml:targetProperty>
+                                            <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:LineString</gpml:valueType>
+                                        </gpml:PropertyDelegate>
+                                    </gpml:sourceGeometry>
+                                    <gpml:reverseOrder>true</gpml:reverseOrder>
+                                </gpml:TopologicalLineSection>
+                            </gpml:section>
+                        </gpml:TopologicalLine>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalLine</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:centerLineOf>
+        </gpml:MidOceanRidge>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:MidOceanRidge>
+            <gpml:identity>GPlates-531a20ee-afc2-45b6-a466-b9e303a958ef</gpml:identity>
+            <gpml:revision>GPlates-b15b2abd-fd63-4b99-ae13-524158bf339d</gpml:revision>
+            <gml:name>Divergent</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1850</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1624</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:centerLineOf>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gpml:TopologicalLine>
+                            <gpml:section>
+                                <gpml:TopologicalLineSection>
+                                    <gpml:sourceGeometry>
+                                        <gpml:PropertyDelegate>
+                                            <gpml:targetFeature>GPlates-c035f176-af10-4b94-8037-43118f2cbda3</gpml:targetFeature>
+                                            <gpml:targetProperty xmlns:gpml="http://www.gplates.org/gplates">gpml:centerLineOf</gpml:targetProperty>
+                                            <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:LineString</gpml:valueType>
+                                        </gpml:PropertyDelegate>
+                                    </gpml:sourceGeometry>
+                                    <gpml:reverseOrder>true</gpml:reverseOrder>
+                                </gpml:TopologicalLineSection>
+                            </gpml:section>
+                            <gpml:section>
+                                <gpml:TopologicalLineSection>
+                                    <gpml:sourceGeometry>
+                                        <gpml:PropertyDelegate>
+                                            <gpml:targetFeature>GPlates-6130c320-fbe1-434d-9b95-8124c1511c51</gpml:targetFeature>
+                                            <gpml:targetProperty xmlns:gpml="http://www.gplates.org/gplates">gpml:centerLineOf</gpml:targetProperty>
+                                            <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:LineString</gpml:valueType>
+                                        </gpml:PropertyDelegate>
+                                    </gpml:sourceGeometry>
+                                    <gpml:reverseOrder>false</gpml:reverseOrder>
+                                </gpml:TopologicalLineSection>
+                            </gpml:section>
+                        </gpml:TopologicalLine>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalLine</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:centerLineOf>
+        </gpml:MidOceanRidge>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:MidOceanRidge>
+            <gpml:identity>GPlates-7a052069-dfc5-45a1-89a8-2a1ee9519aa9</gpml:identity>
+            <gpml:revision>GPlates-a0c53f33-67cd-4805-b756-9c762ce588d4</gpml:revision>
+            <gml:name>Divergent</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1750</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1750</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:centerLineOf>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gpml:TopologicalLine>
+                            <gpml:section>
+                                <gpml:TopologicalLineSection>
+                                    <gpml:sourceGeometry>
+                                        <gpml:PropertyDelegate>
+                                            <gpml:targetFeature>GPlates-e6967a56-cf6e-4812-987d-0b7056ce5b16</gpml:targetFeature>
+                                            <gpml:targetProperty xmlns:gpml="http://www.gplates.org/gplates">gpml:centerLineOf</gpml:targetProperty>
+                                            <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:LineString</gpml:valueType>
+                                        </gpml:PropertyDelegate>
+                                    </gpml:sourceGeometry>
+                                    <gpml:reverseOrder>true</gpml:reverseOrder>
+                                </gpml:TopologicalLineSection>
+                            </gpml:section>
+                            <gpml:section>
+                                <gpml:TopologicalLineSection>
+                                    <gpml:sourceGeometry>
+                                        <gpml:PropertyDelegate>
+                                            <gpml:targetFeature>GPlates-5aec2076-f2c1-4a11-a030-100a6d3cd449</gpml:targetFeature>
+                                            <gpml:targetProperty xmlns:gpml="http://www.gplates.org/gplates">gpml:centerLineOf</gpml:targetProperty>
+                                            <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:LineString</gpml:valueType>
+                                        </gpml:PropertyDelegate>
+                                    </gpml:sourceGeometry>
+                                    <gpml:reverseOrder>false</gpml:reverseOrder>
+                                </gpml:TopologicalLineSection>
+                            </gpml:section>
+                        </gpml:TopologicalLine>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalLine</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:centerLineOf>
+        </gpml:MidOceanRidge>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:MidOceanRidge>
+            <gpml:identity>GPlates-b0692877-a27f-4311-b125-10eca9b48e5f</gpml:identity>
+            <gpml:revision>GPlates-24c22d6e-c55e-4a1d-971b-17ec61272810</gpml:revision>
+            <gml:name>Divergent</gml:name>
+            <gml:validTime>
+                <gml:TimePeriod>
+                    <gml:begin>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1750</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:begin>
+                    <gml:end>
+                        <gml:TimeInstant>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                        </gml:TimeInstant>
+                    </gml:end>
+                </gml:TimePeriod>
+            </gml:validTime>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1750</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
+            <gpml:centerLineOf>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gpml:TopologicalLine>
+                            <gpml:section>
+                                <gpml:TopologicalLineSection>
+                                    <gpml:sourceGeometry>
+                                        <gpml:PropertyDelegate>
+                                            <gpml:targetFeature>GPlates-e6967a56-cf6e-4812-987d-0b7056ce5b16</gpml:targetFeature>
+                                            <gpml:targetProperty xmlns:gpml="http://www.gplates.org/gplates">gpml:centerLineOf</gpml:targetProperty>
+                                            <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:LineString</gpml:valueType>
+                                        </gpml:PropertyDelegate>
+                                    </gpml:sourceGeometry>
+                                    <gpml:reverseOrder>true</gpml:reverseOrder>
+                                </gpml:TopologicalLineSection>
+                            </gpml:section>
+                            <gpml:section>
+                                <gpml:TopologicalLineSection>
+                                    <gpml:sourceGeometry>
+                                        <gpml:PropertyDelegate>
+                                            <gpml:targetFeature>GPlates-67fe6179-68c3-4bef-85bd-0fc2c97cd0bf</gpml:targetFeature>
+                                            <gpml:targetProperty xmlns:gpml="http://www.gplates.org/gplates">gpml:centerLineOf</gpml:targetProperty>
+                                            <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:LineString</gpml:valueType>
+                                        </gpml:PropertyDelegate>
+                                    </gpml:sourceGeometry>
+                                    <gpml:reverseOrder>true</gpml:reverseOrder>
+                                </gpml:TopologicalLineSection>
+                            </gpml:section>
+                            <gpml:section>
+                                <gpml:TopologicalLineSection>
+                                    <gpml:sourceGeometry>
+                                        <gpml:PropertyDelegate>
+                                            <gpml:targetFeature>GPlates-d5baaa82-bf2c-4591-b2da-34557b4b79d9</gpml:targetFeature>
+                                            <gpml:targetProperty xmlns:gpml="http://www.gplates.org/gplates">gpml:centerLineOf</gpml:targetProperty>
+                                            <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:LineString</gpml:valueType>
+                                        </gpml:PropertyDelegate>
+                                    </gpml:sourceGeometry>
+                                    <gpml:reverseOrder>false</gpml:reverseOrder>
+                                </gpml:TopologicalLineSection>
+                            </gpml:section>
+                        </gpml:TopologicalLine>
+                    </gpml:value>
+                    <gml:description></gml:description>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalLine</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:centerLineOf>
+        </gpml:MidOceanRidge>
+    </gml:featureMember>
+</gpml:FeatureCollection>
