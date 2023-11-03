@@ -6,3 +6,4 @@
 1800 mya: Continents ABC and DEFGH split forming continents A and BC, and F and DEGH respectively. Two new oceanic plates appear as a result of two triple junctions.
 1750 mya: The four continents continue to drift appart.
 1700 mya: A fragment of contienent A splits into microcontinent 1, while continent DEGH splits into continents DE and GH. New ocean is created, and a part of an oceanic plate is subducted. Two other new oceanic crust form due to the continental breakup.
+1650: Continents A and GH collide and multiple ocean slabs subduct.
