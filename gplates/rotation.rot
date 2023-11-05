@@ -8,13 +8,17 @@
 100 1900.0   90.0    0.0  -27.5368  000 !
 100 1950.0   90.0    0.0  -13.9145  000 !
 100 2000.0   90.0    0.0    0.0  000 ! Kraton A Paleo
-102  0.0   90.0    0.0    0.0  000 ! Microcontinent 1 Modern
+102  0.0   90.0    0.0    0.0  000 ! Microcontinent A1 Modern
 102  1.0   29.236 -155.0012   24.4808  000 ! Drift Correction
 102 1650.0   29.236 -155.0012   24.4808  000 !
 102 1700.0   39.6874 -140.5138   17.0318  000 !
 102 1750.0   90.0    0.0    0.0  000 ! Starts moving independently
 102 1750.0   64.2022   53.2813   59.6029  100 ! Ends following A
-102 2000.0   64.2022   53.2813   59.6029  100 ! Microcontinent 1 Paleo
+102 2000.0   64.2022   53.2813   59.6029  100 ! Microcontinent A1 Paleo
+103 0.0 90.0 0.0 0.0 000 ! Ocean plate 2 Modern
+103 1650.0 90.0 0.0 0.0 000 ! Starts moving independently
+103 1650.0 29.236 -155.001 -24.4808 102 ! Ends following A1
+103 2000.0 29.236 -155.001 -24.4808 102 ! Ocean plate 2 Paleo
 200  0.0   90.0    0.0    0.0  000 ! Kraton B Modern
 200  1.0   73.6351 -146.0113  -93.7137  000 ! Drift Correction
 200 1650.0   73.6351 -146.0113  -93.7137  000 !
@@ -28,6 +32,10 @@
 300 1850.0   90.0    0.0    0.0  200 ! Starts following B
 300 1850.0   90.0    0.0    0.0  100 ! Ends following A
 300 2000.0   90.0    0.0    0.0  100 ! Kraton C Paleo (follows A)
+302 0.0 90.0 0.0 0.0 000 ! Ocean plate 1 Modern
+302 1650.0 90.0 0.0 0.0 000 !  Starts moving independently
+302 1650.0 73.6351 -146.011 93.7137 300 !  Ends following B
+302 2000.0 73.6351 -146.011 93.7137 300 !  Ocean plate 1 Paleo
 400  0.0   90.0    0.0    0.0  500 ! Kraton D Modern
 400 2000.0   90.0    0.0    0.0  500 ! Kraton D Paleo (follows E)
 500  0.0   90.0    0.0    0.0  000 ! Kraton E Modern
@@ -57,8 +65,9 @@
 700 1750.0   90.0    0.0    0.0  800 ! Starts following H
 700 1750.0   90.0    0.0    0.0  500 ! Ends following E
 700 2000.0   90.0    0.0    0.0  500 ! Kraton G Paleo  (follows E)
-800  0.0   90.0    0.0    0.0  000 ! Kraton H Modern
-800  1.0   73.9808  -37.0272   94.0209  000 ! Drift Correction
+800  0.0   90.0    0.0    0.0  100 ! Kraton H Modern
+800  1.0   58.5373  4.18767   172.89  100 ! Drift Correction
+800 1650.0   58.5373  4.18767   172.89  100 ! Starts following A
 800 1650.0   73.9808  -37.0272   94.0209  000 !
 800 1700.0   74.4534  -43.8966   79.6891  000 !
 800 1750.0   76.9185  -42.632   66.0513  000 ! Starts moving independently

@@ -193,7 +193,7 @@
     <gml:featureMember>
         <gpml:SubductionZone>
             <gpml:identity>GPlates-e144aaad-a328-4e6a-a49b-ba6a585a844c</gpml:identity>
-            <gpml:revision>GPlates-f22c36ff-0b73-4a94-8c74-b27112ed5bcc</gpml:revision>
+            <gpml:revision>GPlates-78b6ad37-ed91-4956-a8db-55ab86d7678e</gpml:revision>
             <gml:name>Convergent</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -204,7 +204,7 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1651</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
