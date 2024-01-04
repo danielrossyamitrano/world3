@@ -3,7 +3,7 @@
     <gml:featureMember>
         <gpml:OceanicCrust>
             <gpml:identity>GPlates-2dceb92e-5895-4c9f-9944-3e3141918d5c</gpml:identity>
-            <gpml:revision>GPlates-49646bb0-2538-496d-b0df-c72b1d62f78a</gpml:revision>
+            <gpml:revision>GPlates-60bdc475-0fbe-4e9e-bb5c-84b3c5d2d81b</gpml:revision>
             <gml:name>Ocean Crust 1850</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -52,6 +52,17 @@
                                         <gpml:TopologicalPoint>
                                             <gpml:sourceGeometry>
                                                 <gpml:PropertyDelegate>
+                                                    <gpml:targetFeature>GPlates-8412fc21-2fa9-4fae-bc12-20d7cb989d84</gpml:targetFeature>
+                                                    <gpml:targetProperty xmlns:gpml="http://www.gplates.org/gplates">gpml:centerLineOf</gpml:targetProperty>
+                                                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
+                                                </gpml:PropertyDelegate>
+                                            </gpml:sourceGeometry>
+                                        </gpml:TopologicalPoint>
+                                    </gpml:section>
+                                    <gpml:section>
+                                        <gpml:TopologicalPoint>
+                                            <gpml:sourceGeometry>
+                                                <gpml:PropertyDelegate>
                                                     <gpml:targetFeature>GPlates-c43745f2-28d0-4ae1-bab4-f0dbcb45eab3</gpml:targetFeature>
                                                     <gpml:targetProperty xmlns:gpml="http://www.gplates.org/gplates">gpml:centerLineOf</gpml:targetProperty>
                                                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
@@ -83,7 +94,7 @@
     <gml:featureMember>
         <gpml:OceanicCrust>
             <gpml:identity>GPlates-6c8084c4-013a-4e04-b6d6-008093ff12a7</gpml:identity>
-            <gpml:revision>GPlates-aec32cb8-7243-4606-b2fe-83322a872d89</gpml:revision>
+            <gpml:revision>GPlates-448e6add-0c73-4488-b5c0-869a3ed780cf</gpml:revision>
             <gml:name>Ocean Crust 1850</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -94,7 +105,7 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1749</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
@@ -254,7 +265,7 @@
     <gml:featureMember>
         <gpml:OceanicCrust>
             <gpml:identity>GPlates-c6509c29-da5a-415b-b94f-402ae626c95c</gpml:identity>
-            <gpml:revision>GPlates-5666cd16-21f8-4936-9290-0ddc914bb72d</gpml:revision>
+            <gpml:revision>GPlates-b9e49332-2d4e-4e2f-8e12-33db8fd55090</gpml:revision>
             <gml:name>Ocean Crust 1750</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -265,7 +276,7 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1600</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
@@ -321,6 +332,17 @@
                                             </gpml:sourceGeometry>
                                         </gpml:TopologicalPoint>
                                     </gpml:section>
+                                    <gpml:section>
+                                        <gpml:TopologicalPoint>
+                                            <gpml:sourceGeometry>
+                                                <gpml:PropertyDelegate>
+                                                    <gpml:targetFeature>GPlates-b0871ae6-2c62-4cfc-b377-9f21962ccf45</gpml:targetFeature>
+                                                    <gpml:targetProperty xmlns:gpml="http://www.gplates.org/gplates">gpml:centerLineOf</gpml:targetProperty>
+                                                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
+                                                </gpml:PropertyDelegate>
+                                            </gpml:sourceGeometry>
+                                        </gpml:TopologicalPoint>
+                                    </gpml:section>
                                 </gpml:TopologicalSections>
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
@@ -334,7 +356,7 @@
     <gml:featureMember>
         <gpml:OceanicCrust>
             <gpml:identity>GPlates-0f61f80f-32e0-4d7d-b35e-5a07051578f9</gpml:identity>
-            <gpml:revision>GPlates-9aed7de4-587f-498d-a2df-372699babfad</gpml:revision>
+            <gpml:revision>GPlates-018e9f6d-dd59-4f31-8241-f9872d964bfd</gpml:revision>
             <gml:name>Oceanic Crust 1750</gml:name>
             <gml:validTime>
                 <gml:TimePeriod>
@@ -345,16 +367,11 @@
                     </gml:begin>
                     <gml:end>
                         <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">http://gplates.org/times/distantFuture</gml:timePosition>
+                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1600</gml:timePosition>
                         </gml:TimeInstant>
                     </gml:end>
                 </gml:TimePeriod>
             </gml:validTime>
-            <gpml:geometryImportTime>
-                <gml:TimeInstant>
-                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1700</gml:timePosition>
-                </gml:TimeInstant>
-            </gpml:geometryImportTime>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>601</gpml:value>
@@ -362,6 +379,11 @@
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
+            <gpml:geometryImportTime>
+                <gml:TimeInstant>
+                    <gml:timePosition gml:frame="http://gplates.org/TRS/flat">1700</gml:timePosition>
+                </gml:TimeInstant>
+            </gpml:geometryImportTime>
             <gpml:outlineOf>
                 <gpml:ConstantValue>
                     <gpml:value>
